@@ -1,3 +1,5 @@
-# Navidad en Julio
+# SantiClock
 
-Cuenta regresiva para la navidad en el [Alexis Moyano Music Hall](https://www.twitch.tv/alexismoyanopuntocom)
+A full screen HTML clock with an optional YouTube background video.
+
+![SantiClock](https://i.imgur.com/VvLOrks.png)
